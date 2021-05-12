@@ -4,7 +4,7 @@ The Terraform Scripts create the EC2 Instances, and auto installs the AWS SSM ag
 - Download the terraform scripts to a subdirectory
 - terraform init; terraform plan
 - terraform apply -auto-approve
-- 
+
 Installing the Armor Agent happens through the use of the AWS SSM Run Command.
 - Log into the AWS Console, and navigate to SSM - System Manager
 - Scroll to the bottom and click on Documents
