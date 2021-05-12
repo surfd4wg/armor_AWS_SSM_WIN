@@ -4,7 +4,7 @@ parameters:
   LicenseKey:
     type: String
     description: (Required) Armor agent License Key
-    default: BCDHC-FKWCQ-6J6JP-PBPF4-DWCPM
+    default: XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
   Region:
     type: String
     description: (Required) Armor region
